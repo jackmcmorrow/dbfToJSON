@@ -1,0 +1,33 @@
+{
+	"name": "dbfToJSON",
+	"version": "1.0",
+	"author": "",
+	"description": "",
+	"company": "",
+	"copyright": "",
+	"website": "",
+	"package": null,
+	"startup": "dbfToJSON.js",
+	"execute": null,
+	"extract": false,
+	"output": "dbfToJSON.jx",
+	"files": [
+		"dbfToJSON.js",
+		"node_modules\\node-dbf\\lib\\header.js",
+		"node_modules\\node-dbf\\lib\\parser.js",
+		"node_modules\\node-dbf\\package.json",
+		"package.json"
+	],
+	"assets": [
+		".gitattributes",
+		".gitignore",
+		"node_modules\\node-dbf\\.npmignore",
+		"node_modules\\node-dbf\\Cakefile",
+		"node_modules\\node-dbf\\README.md",
+		"node_modules\\node-dbf\\src\\header.coffee",
+		"node_modules\\node-dbf\\src\\parser.coffee"
+	],
+	"preInstall": null,
+	"library": true,
+	"fs_reach_sources": true
+}
