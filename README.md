@@ -7,5 +7,5 @@ The application was made in Node.js, however I decided to use a JXCore to create
 ###Usage###
 
 '''
-	dbfToJson.exe path/to/dbf/file json/file/destination
+	dbfToJson-x64.exe path/to/dbf/file json/file/destination
 
