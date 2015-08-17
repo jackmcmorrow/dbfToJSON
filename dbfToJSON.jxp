@@ -29,5 +29,6 @@
 	],
 	"preInstall": null,
 	"library": true,
+	"readme_file": "README.md",
 	"fs_reach_sources": true
 }
