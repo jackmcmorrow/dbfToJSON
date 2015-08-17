@@ -1,0 +1,28 @@
+{
+	"name": "dbfToJSON",
+	"version": "1.0",
+	"author": "",
+	"description": "",
+	"company": "",
+	"copyright": "",
+	"website": "",
+	"package": null,
+	"startup": "dbfToJSON.js",
+	"execute": null,
+	"extract": false,
+	"output": "dbfToJSON.jx",
+	"files": [
+		"dbfToJSON.js",
+		"node_modules\\node-dbf\\lib\\header.js",
+		"node_modules\\node-dbf\\lib\\parser.js",
+		"node_modules\\node-dbf\\package.json",
+		"package.json"
+	],
+	"assets": [
+		"node_modules\\node-dbf\\README.md"
+	],
+	"preInstall": null,
+	"library": true,
+	"readme_file": "README.md",
+	"fs_reach_sources": true
+}
