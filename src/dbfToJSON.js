@@ -10,7 +10,7 @@ if (process.argv.length < 2)
 var parser = new Parser(process.argv[1]);
 var dump = [];
 filename = process.argv[2] ? process.argv[2] : process.argv[1];
-filename += '.txt';
+filename += '.json';
 
 parser
 	.on('start', function(){
